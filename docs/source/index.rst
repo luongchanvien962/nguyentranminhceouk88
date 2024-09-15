@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`CEO UK88 <https://uk88.ngo/nguyen-tran-minh-ceo-uk88/>`_ - Nguyễn Trần Minh sinh năm 1986 đam mê cực lớn với môn thể thao vua bóng đá. Được tiếp cận với môi trường cá cược chuẩn quốc tế nên đã thành lập nên Trang cá cược thể thao UK88. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 72/23 Nhất Chi Mai, Phường 13, Tân Bình, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0924474411. 
 
-Contents
---------
+Email: ceouk88nguyentranminh@gmail.com. 
 
-.. toctree::
+Website: https://uk88.ngo/nguyen-tran-minh-ceo-uk88/ 
 
-   usage
-   api
+#ceouk88, #nguyentranminh, #ceonguyentranminhuk88
